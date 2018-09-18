@@ -1,3 +1,5 @@
+
+```
 .
 ├── 0pytorch
 │   ├── coco-master
@@ -25,8 +27,7 @@
 │   └── xml
 ├── Contents
 ├── DexNet
-│   ├── dex-net
-│   └── visualization
+│   └── dex-net
 ├── faster-rcnn-resnet
 │   ├── caffe-fast-rcnn
 │   ├── data
@@ -82,5 +83,5 @@
 │   └── torch
 └── reranking
     └── person-re-ranking-master
-
-83 directories
+```
+82 directories
