@@ -1,4 +1,3 @@
-```
 .
 ├── 0pytorch
 │   ├── coco-master
@@ -6,6 +5,7 @@
 │   ├── mask-rcnn.pytorch
 │   └── pytorch-mask-rcnn
 ├── 0Rotated_Object
+│   ├── DOTA
 │   ├── DRBox
 │   └── Tensorflow
 ├── 1caffe2
@@ -20,31 +20,12 @@
 │   ├── ENet
 │   ├── Seg
 │   └── SegNet
-├── caffe
-│   ├── build -> .build_release
-│   ├── cmake
-│   ├── data
-│   ├── defor
-│   ├── distribute
-│   ├── docs
-│   ├── examples
-│   ├── include
-│   ├── matlab
-│   ├── models
-│   ├── python
-│   ├── scripts
-│   ├── src
-│   └── tools
 ├── coco_showmask
 │   ├── output
 │   └── xml
-├── DOTA
-│   ├── darknet
-│   ├── DOTA_devkit
-│   ├── DOTA_models
-│   ├── DOTA_YOLOv2
-│   ├── Faster_RCNN_for_DOTA
-│   └── incubator-mxnet
+├── Contents
+├── DexNet
+│   └── dex-net
 ├── faster-rcnn-resnet
 │   ├── caffe-fast-rcnn
 │   ├── data
@@ -98,8 +79,7 @@
 │   ├── third_party
 │   ├── tools
 │   └── torch
-├── reranking
-│   └── person-re-ranking-master
-└── TzuTaLin's blog_ Caffe on Ubuntu _ Eclipse C_C++_files
-```
-101 directories
+└── reranking
+    └── person-re-ranking-master
+
+82 directories
